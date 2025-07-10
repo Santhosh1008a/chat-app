@@ -1,3 +1,4 @@
+import add_icon from './add_icon.png';
 import avatar_icon from './avatar_icon.png'
 import gallery_icon from './gallery_icon.svg'
 import help_icon from './help_icon.png'
@@ -35,7 +36,8 @@ const assets = {
     arrow_icon,
     code,
     bgImage,
-    profile_martin
+    profile_martin,
+    add_icon 
 }
 
 export default assets;
